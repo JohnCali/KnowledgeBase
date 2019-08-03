@@ -1,3 +1,4 @@
+#Factory Default Reset of Cisco Switch 2960 using CLI
 Pre-requisites:
 1. Putty 
 2. Connection to switch
