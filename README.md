@@ -3,7 +3,7 @@ Collection of Everything to Teach Cybersecurity and Digital Forensics
 
 Topic List
 
-Networking + Cybersecurity:
+Networking and Cybersecurity:
 - Microsoft Windows Server 2016  
 - CentOS 7  
 - Cisco Switches  
