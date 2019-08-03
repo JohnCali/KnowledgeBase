@@ -1,5 +1,5 @@
 # KnowledgeBase
-Collection of Everything to Teach Cybersecurity and Digital Forensics
+Collection of Everything to Teach IT
 
 Topic List
 
